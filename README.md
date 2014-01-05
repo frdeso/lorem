@@ -13,4 +13,11 @@ Arguments(Only one at the time):
 * -w number of word
 * -s number of sentence
 
-==Example==
+##Example##
+
+<pre><code> $> lorem -p 2
+
+Voluptate consequatur est aut. Et consequatur enim debitis dolores. Sint deleniti deleniti fuga sequi. Eaque et maxime veniam saepe reiciendis. Consequatur est vel perspiciatis molestiae.
+
+Aspernatur sit odit sequi vitae amet. Placeat iure tempora totam possimus. Nesciunt consequatur et accusantium ab ut omnis et ipsum. Perspiciatis qui quis animi sit dicta vel. Rerum et sed aliquam sed quo. Voluptatibus alias corrupti voluptas perspiciatis molestiae quia laborum.
+</code></pre>
